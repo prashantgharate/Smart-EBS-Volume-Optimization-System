@@ -199,7 +199,6 @@ You can test each Lambda individually using the AWS Console > Lambda > Test. Sam
 
 ## 🙌 Author
 Prashant Gharate  
-*Project guided and documented with help from ChatGPT*
 
 ---
 
