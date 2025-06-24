@@ -1,0 +1,10 @@
+ EventBridge (Scheduler)
+         |
+         v
+ Step Function (Workflow)
+    |     |     |     |
+    v     v     v     v
+Filter  Convert  Log  Notify
+Volume  Volume   to   via SNS
+using   using   DynamoDB
+Lambda  Lambda  using Lambda
